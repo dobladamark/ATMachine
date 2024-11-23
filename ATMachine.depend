@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701073410 source:d:\codeblocksprojects\atmachine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
